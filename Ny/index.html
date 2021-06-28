@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Lagom</title>
+
+    <!-- Boostrap 4 -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <!--Font awesome CDN-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="footer.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <a href="index.html" class="logo-image">
+                    <img src="images/logo.png" alt="" class="logo-image">
+                </a>
+                <div class="hamburger-menu">
+                    <i class="fas fa-bars open-state"></i>
+                    <i class="fas fa-times close-state"></i>
+                </div>
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Homestay</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Login</a>
+                    </li>
+                </ul>
+
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="hero">
+            <div class="container">
+                <div class="main-heading">
+                    <h1 class="title">Lagom</h1>
+                    <h2 class="sub-title">Cozy Homestay</h2>
+                </div>
+            </div>
+        </div>
+
+        <section class="searching">
+            <div class="container">
+                <form action="" class="form search-form">
+                    <h3 style="font-weight: bold; font-family: cursive; display: inline-block;">Select your budget</h3>
+                    <div class="radio-group" style="display: inline-block;">
+                        <div class="col-auto mr-sm-2 mx-1 card-block py-0 text-center radio selected ">
+                            <div class="flex-row">
+                                <div class="col">
+                                    <div class="pic"> <img class="irc_mut img-fluid" src="images/decreased-bugetpng.png" width="50" height="50"> </div>
+                                    <p class='label-price'>Decreased price</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-auto ml-sm-2 mx-1 card-block py-0 text-center radio ">
+                            <div class="flex-row">
+                                <div class="col">
+                                    <div class="pic"> <img class="irc_mut img-fluid" src="images/increased-bugetpng.png" width="50" height="50"> </div>
+                                    <p class='label-price'>Increased price</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn form-btn btn-purple" style="display: inline-block">Search
+                        <span class="dots"><i class="fas fa-ellipsis-h"></i></span>
+                    </button>
+                </form>
+            </div>
+        </section>
+
+        <section class="homestays">
+            <div class="container">
+                <div class="grid homestays-grid">
+                    <div class="container homestay-container-1">
+                        <div class='row'>
+                            <div class='col-sm-6'>
+                                <img class='homestay-image' src='images/homestay1.jpg' alt='Sleepingwood'>
+                                <span class='price-infor'>10$/night</span>
+                            </div>
+
+                            <div class='col-sm-6 text-infor'>
+                                <h2 class='name'>Nang homestay</h2>
+
+                                <div class='rating'>
+                                    <span class="fa fa-star checked"></span>
+                                    <span class="fa fa-star checked"></span>
+                                    <span class="fa fa-star checked"></span>
+                                    <span class="fa fa-star checked"></span>
+                                    <span class="fa fa-star"></span>
+                                </div>
+
+                                <div class='address'>
+                                    <i class='fa fa-home'></i>
+                                    <span>somewhere on the Earth</span>
+                                </div>
+
+
+                                <div class='amenity'>
+                                    <span>parking</span>
+                                    <span>breakfast</span>
+                                    <span>lovely pet</span>
+                                </div>
+                                <br>
+                                <a href="#" class="btn btn-gradient">Explore now
+                                    <span class=dots><i class="fas fa-ellipsis-h"></i></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer style="background-color: #222222; color: white;">
+        <div class="container-fluid" style="padding: 30px 0 30px 0;">
+            <div class='row'>
+                <div class='col first-col' style="padding-left: 70px;">
+                    <p class='first-line'>Phone Support</p>
+                    <p class="second-line">24 HOURS A DAY</p>
+                    <p class='third line' style="font-size: 21px;">+84 366 374 898</p>
+                </div>
+
+                <div class='col second-col'>
+                    <p class='first-line'>Follow Us</p>
+                    <p class="second-line">SOCIAL MEDIA CHANELS</p>
+                    <span class='third line'>
+                        <a href="#" class="fa fa-facebook"></a>
+                        <a href="#" class="fa fa-twitter"></a>
+                        <a href="#" class="fa fa-youtube"></a>
+                        <a href="#" class="fa fa-instagram"></a>
+                        <a href="#" class="fa fa-skype"></a>
+                    </span>
+                </div>
+
+                <div class='col third-col' style="padding-right: 70px;">
+                    <p class='first-line'>Our Newsletter</p>
+                    <p class="second-line">SIGN UP FOR SPECIAL OFERS</p>
+                    <div class='third-line'>
+                        <input type='email' placeholder="e-mail">
+                        <button>SUBSCRIBE</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </footer>
+    <script src="main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,2087 @@
+[27-Jun-2021 08:11:18 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:11:18 UTC] PHP Warning:  error_log() expects parameter 1 to be string, object given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/index.php on line 127
+[27-Jun-2021 08:11:25 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:11:25 UTC] PHP Warning:  error_log() expects parameter 1 to be string, object given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/index.php on line 127
+[27-Jun-2021 08:11:41 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:11:41 UTC] PHP Warning:  error_log() expects parameter 1 to be string, object given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/index.php on line 127
+[27-Jun-2021 08:13:09 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:13:09 UTC] PHP Warning:  error_log() expects parameter 1 to be string, object given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/index.php on line 127
+[27-Jun-2021 08:14:33 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:14:33 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:15:58 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:15:58 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:15:58 UTC] 
+[27-Jun-2021 08:15:58 UTC] 
+[27-Jun-2021 08:15:58 UTC] 
+[27-Jun-2021 08:15:58 UTC] 
+[27-Jun-2021 08:16:56 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:16:56 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:16:56 UTC] flaticon-029-wifi
+[27-Jun-2021 08:16:56 UTC] free wifi
+[27-Jun-2021 08:16:56 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:16:56 UTC] heating & air conditioner
+[27-Jun-2021 08:16:56 UTC] flaticon-002-breakfast
+[27-Jun-2021 08:16:56 UTC] free breakfast
+[27-Jun-2021 08:16:56 UTC] flaticon-005-tea
+[27-Jun-2021 08:16:56 UTC] tea & coffee
+[27-Jun-2021 08:16:56 UTC] flaticon-usb-cable
+[27-Jun-2021 08:16:56 UTC] smart device table & USB port
+[27-Jun-2021 08:16:56 UTC] flaticon-shower
+[27-Jun-2021 08:16:56 UTC] bathroom kit
+[27-Jun-2021 08:16:56 UTC] flaticon-004-fridge
+[27-Jun-2021 08:16:56 UTC] refrigerator
+[27-Jun-2021 08:16:56 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 7
+[27-Jun-2021 08:16:56 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:16:56 UTC] flaticon-029-wifi
+[27-Jun-2021 08:16:56 UTC] free wifi
+[27-Jun-2021 08:16:56 UTC] flaticon-019-television
+[27-Jun-2021 08:16:56 UTC] 49' HD TV
+[27-Jun-2021 08:16:56 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:16:56 UTC] heating & air conditioner
+[27-Jun-2021 08:16:56 UTC] flaticon-002-breakfast
+[27-Jun-2021 08:16:56 UTC] free breakfast
+[27-Jun-2021 08:16:56 UTC] flaticon-usb-cable
+[27-Jun-2021 08:16:56 UTC] smart device table & USB port
+[27-Jun-2021 08:16:56 UTC] flaticon-fruits
+[27-Jun-2021 08:16:56 UTC] fresh fruit
+[27-Jun-2021 08:16:56 UTC] flaticon-shower
+[27-Jun-2021 08:16:56 UTC] bathroom kit
+[27-Jun-2021 08:16:56 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 7
+[27-Jun-2021 08:16:56 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:16:56 UTC] flaticon-029-wifi
+[27-Jun-2021 08:16:56 UTC] free wifi
+[27-Jun-2021 08:16:56 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:16:56 UTC] heating & air conditioner
+[27-Jun-2021 08:16:56 UTC] flaticon-005-tea
+[27-Jun-2021 08:16:56 UTC] tea & coffee
+[27-Jun-2021 08:16:56 UTC] flaticon-usb-cable
+[27-Jun-2021 08:16:56 UTC] smart device table & USB port
+[27-Jun-2021 08:16:56 UTC] flaticon-fruits
+[27-Jun-2021 08:16:56 UTC] fresh fruit
+[27-Jun-2021 08:16:56 UTC] flaticon-004-fridge
+[27-Jun-2021 08:16:56 UTC] refrigerator
+[27-Jun-2021 08:16:56 UTC] flaticon-026-bed
+[27-Jun-2021 08:16:56 UTC] King Bed
+[27-Jun-2021 08:20:03 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:20:03 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:20:03 UTC] flaticon-029-wifi
+[27-Jun-2021 08:20:03 UTC] Free Wifi
+[27-Jun-2021 08:20:03 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:20:03 UTC] Conditioner
+[27-Jun-2021 08:20:03 UTC] flaticon-002-breakfast
+[27-Jun-2021 08:20:03 UTC] Breakfast
+[27-Jun-2021 08:20:03 UTC] flaticon-005-tea
+[27-Jun-2021 08:20:03 UTC] Tea & Coffee
+[27-Jun-2021 08:20:03 UTC] flaticon-usb-cable
+[27-Jun-2021 08:20:03 UTC] USB Port
+[27-Jun-2021 08:20:03 UTC] flaticon-shower
+[27-Jun-2021 08:20:03 UTC] Bathroom Kit
+[27-Jun-2021 08:20:03 UTC] flaticon-004-fridge
+[27-Jun-2021 08:20:03 UTC] Refridge
+[27-Jun-2021 08:20:03 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 7
+[27-Jun-2021 08:20:03 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:20:03 UTC] flaticon-029-wifi
+[27-Jun-2021 08:20:03 UTC] Free Wifi
+[27-Jun-2021 08:20:03 UTC] flaticon-019-television
+[27-Jun-2021 08:20:03 UTC] 49' HD TV
+[27-Jun-2021 08:20:03 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:20:03 UTC] Conditioner
+[27-Jun-2021 08:20:03 UTC] flaticon-002-breakfast
+[27-Jun-2021 08:20:03 UTC] Breakfast
+[27-Jun-2021 08:20:03 UTC] flaticon-usb-cable
+[27-Jun-2021 08:20:03 UTC] USB Port
+[27-Jun-2021 08:20:03 UTC] flaticon-fruits
+[27-Jun-2021 08:20:03 UTC] Fruits
+[27-Jun-2021 08:20:03 UTC] flaticon-shower
+[27-Jun-2021 08:20:03 UTC] Bathroom Kit
+[27-Jun-2021 08:20:03 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 7
+[27-Jun-2021 08:20:03 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:20:03 UTC] flaticon-029-wifi
+[27-Jun-2021 08:20:03 UTC] Free Wifi
+[27-Jun-2021 08:20:03 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:20:03 UTC] Conditioner
+[27-Jun-2021 08:20:03 UTC] flaticon-005-tea
+[27-Jun-2021 08:20:03 UTC] Tea & Coffee
+[27-Jun-2021 08:20:03 UTC] flaticon-usb-cable
+[27-Jun-2021 08:20:03 UTC] USB Port
+[27-Jun-2021 08:20:03 UTC] flaticon-fruits
+[27-Jun-2021 08:20:03 UTC] Fruits
+[27-Jun-2021 08:20:03 UTC] flaticon-004-fridge
+[27-Jun-2021 08:20:03 UTC] Refridge
+[27-Jun-2021 08:20:03 UTC] flaticon-026-bed
+[27-Jun-2021 08:20:03 UTC] King Bed
+[27-Jun-2021 08:22:25 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 7
+[27-Jun-2021 08:22:25 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:22:25 UTC] flaticon-029-wifi
+[27-Jun-2021 08:22:25 UTC] Free Wifi
+[27-Jun-2021 08:22:25 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:22:25 UTC] Conditioner
+[27-Jun-2021 08:22:25 UTC] flaticon-002-breakfast
+[27-Jun-2021 08:22:25 UTC] Breakfast
+[27-Jun-2021 08:22:25 UTC] flaticon-005-tea
+[27-Jun-2021 08:22:25 UTC] Tea & Coffee
+[27-Jun-2021 08:22:25 UTC] flaticon-usb-cable
+[27-Jun-2021 08:22:25 UTC] USB Port
+[27-Jun-2021 08:22:25 UTC] flaticon-shower
+[27-Jun-2021 08:22:25 UTC] Bathroom Kit
+[27-Jun-2021 08:22:25 UTC] flaticon-004-fridge
+[27-Jun-2021 08:22:25 UTC] Refridge
+[27-Jun-2021 08:22:25 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 7
+[27-Jun-2021 08:22:25 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:22:25 UTC] flaticon-029-wifi
+[27-Jun-2021 08:22:25 UTC] Free Wifi
+[27-Jun-2021 08:22:25 UTC] flaticon-019-television
+[27-Jun-2021 08:22:25 UTC] 49' HD TV
+[27-Jun-2021 08:22:25 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:22:25 UTC] Conditioner
+[27-Jun-2021 08:22:25 UTC] flaticon-002-breakfast
+[27-Jun-2021 08:22:25 UTC] Breakfast
+[27-Jun-2021 08:22:25 UTC] flaticon-usb-cable
+[27-Jun-2021 08:22:25 UTC] USB Port
+[27-Jun-2021 08:22:25 UTC] flaticon-fruits
+[27-Jun-2021 08:22:25 UTC] Fruits
+[27-Jun-2021 08:22:25 UTC] flaticon-shower
+[27-Jun-2021 08:22:25 UTC] Bathroom Kit
+[27-Jun-2021 08:22:25 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 7
+[27-Jun-2021 08:22:25 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 7
+    [type] => 0
+)
+
+[27-Jun-2021 08:22:25 UTC] flaticon-029-wifi
+[27-Jun-2021 08:22:25 UTC] Free Wifi
+[27-Jun-2021 08:22:25 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:22:25 UTC] Conditioner
+[27-Jun-2021 08:22:25 UTC] flaticon-005-tea
+[27-Jun-2021 08:22:25 UTC] Tea & Coffee
+[27-Jun-2021 08:22:25 UTC] flaticon-usb-cable
+[27-Jun-2021 08:22:25 UTC] USB Port
+[27-Jun-2021 08:22:25 UTC] flaticon-fruits
+[27-Jun-2021 08:22:25 UTC] Fruits
+[27-Jun-2021 08:22:25 UTC] flaticon-004-fridge
+[27-Jun-2021 08:22:25 UTC] Refridge
+[27-Jun-2021 08:22:25 UTC] flaticon-026-bed
+[27-Jun-2021 08:22:25 UTC] King Bed
+[27-Jun-2021 08:22:38 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:22:38 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:22:38 UTC] flaticon-029-wifi
+[27-Jun-2021 08:22:38 UTC] Free Wifi
+[27-Jun-2021 08:22:38 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:22:38 UTC] Conditioner
+[27-Jun-2021 08:22:38 UTC] flaticon-002-breakfast
+[27-Jun-2021 08:22:38 UTC] Breakfast
+[27-Jun-2021 08:22:38 UTC] flaticon-005-tea
+[27-Jun-2021 08:22:38 UTC] Tea & Coffee
+[27-Jun-2021 08:22:38 UTC] flaticon-usb-cable
+[27-Jun-2021 08:22:38 UTC] USB Port
+[27-Jun-2021 08:22:38 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:22:38 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:22:38 UTC] flaticon-029-wifi
+[27-Jun-2021 08:22:38 UTC] Free Wifi
+[27-Jun-2021 08:22:38 UTC] flaticon-019-television
+[27-Jun-2021 08:22:38 UTC] 49' HD TV
+[27-Jun-2021 08:22:38 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:22:38 UTC] Conditioner
+[27-Jun-2021 08:22:38 UTC] flaticon-002-breakfast
+[27-Jun-2021 08:22:38 UTC] Breakfast
+[27-Jun-2021 08:22:38 UTC] flaticon-usb-cable
+[27-Jun-2021 08:22:38 UTC] USB Port
+[27-Jun-2021 08:22:38 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:22:38 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:22:38 UTC] flaticon-029-wifi
+[27-Jun-2021 08:22:38 UTC] Free Wifi
+[27-Jun-2021 08:22:38 UTC] flaticon-003-air-conditioner
+[27-Jun-2021 08:22:38 UTC] Conditioner
+[27-Jun-2021 08:22:38 UTC] flaticon-005-tea
+[27-Jun-2021 08:22:38 UTC] Tea & Coffee
+[27-Jun-2021 08:22:38 UTC] flaticon-usb-cable
+[27-Jun-2021 08:22:38 UTC] USB Port
+[27-Jun-2021 08:22:38 UTC] flaticon-fruits
+[27-Jun-2021 08:22:38 UTC] Fruits
+[27-Jun-2021 08:34:26 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:34:26 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:34:26 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:34:26 UTC] Free Wifi
+[27-Jun-2021 08:34:26 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:34:26 UTC] Conditioner
+[27-Jun-2021 08:34:26 UTC] flaticon-coffee
+[27-Jun-2021 08:34:26 UTC] Breakfast
+[27-Jun-2021 08:34:26 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:34:26 UTC] Tea & Coffee
+[27-Jun-2021 08:34:26 UTC] flaticon-usb-cable
+[27-Jun-2021 08:34:26 UTC] USB Port
+[27-Jun-2021 08:34:26 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:34:26 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:34:26 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:34:26 UTC] Free Wifi
+[27-Jun-2021 08:34:26 UTC] flaticon-tv-monitor
+[27-Jun-2021 08:34:26 UTC] 49' HD TV
+[27-Jun-2021 08:34:26 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:34:26 UTC] Conditioner
+[27-Jun-2021 08:34:26 UTC] flaticon-coffee
+[27-Jun-2021 08:34:26 UTC] Breakfast
+[27-Jun-2021 08:34:26 UTC] flaticon-usb-cable
+[27-Jun-2021 08:34:26 UTC] USB Port
+[27-Jun-2021 08:34:26 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:34:26 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:34:26 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:34:26 UTC] Free Wifi
+[27-Jun-2021 08:34:26 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:34:26 UTC] Conditioner
+[27-Jun-2021 08:34:26 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:34:26 UTC] Tea & Coffee
+[27-Jun-2021 08:34:26 UTC] flaticon-usb-cable
+[27-Jun-2021 08:34:26 UTC] USB Port
+[27-Jun-2021 08:34:26 UTC] flaticon-fruits
+[27-Jun-2021 08:34:26 UTC] Fruits
+[27-Jun-2021 08:35:35 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:35:35 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:35:35 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:35:35 UTC] Free Wifi
+[27-Jun-2021 08:35:35 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:35:35 UTC] Conditioner
+[27-Jun-2021 08:35:35 UTC] flaticon-coffee
+[27-Jun-2021 08:35:35 UTC] Breakfast
+[27-Jun-2021 08:35:35 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:35:35 UTC] Tea & Coffee
+[27-Jun-2021 08:35:35 UTC] flaticon-usb-cable
+[27-Jun-2021 08:35:35 UTC] USB Port
+[27-Jun-2021 08:35:35 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:35:35 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:35:35 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:35:35 UTC] Free Wifi
+[27-Jun-2021 08:35:35 UTC] flaticon-tv-monitor
+[27-Jun-2021 08:35:35 UTC] 49' HD TV
+[27-Jun-2021 08:35:35 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:35:35 UTC] Conditioner
+[27-Jun-2021 08:35:35 UTC] flaticon-coffee
+[27-Jun-2021 08:35:35 UTC] Breakfast
+[27-Jun-2021 08:35:35 UTC] flaticon-usb-cable
+[27-Jun-2021 08:35:35 UTC] USB Port
+[27-Jun-2021 08:35:35 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:35:35 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:35:35 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:35:35 UTC] Free Wifi
+[27-Jun-2021 08:35:35 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:35:35 UTC] Conditioner
+[27-Jun-2021 08:35:35 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:35:35 UTC] Tea & Coffee
+[27-Jun-2021 08:35:35 UTC] flaticon-usb-cable
+[27-Jun-2021 08:35:35 UTC] USB Port
+[27-Jun-2021 08:35:35 UTC] flaticon-fruits
+[27-Jun-2021 08:35:35 UTC] Fruits
+[27-Jun-2021 08:35:54 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:35:54 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:35:54 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:35:54 UTC] Free Wifi
+[27-Jun-2021 08:35:54 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:35:54 UTC] Conditioner
+[27-Jun-2021 08:35:54 UTC] flaticon-coffee
+[27-Jun-2021 08:35:54 UTC] Breakfast
+[27-Jun-2021 08:35:54 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:35:54 UTC] Tea & Coffee
+[27-Jun-2021 08:35:54 UTC] flaticon-usb-cable
+[27-Jun-2021 08:35:54 UTC] USB Port
+[27-Jun-2021 08:35:54 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:35:54 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:35:54 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:35:54 UTC] Free Wifi
+[27-Jun-2021 08:35:54 UTC] flaticon-tv-monitor
+[27-Jun-2021 08:35:54 UTC] 49' HD TV
+[27-Jun-2021 08:35:54 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:35:54 UTC] Conditioner
+[27-Jun-2021 08:35:54 UTC] flaticon-coffee
+[27-Jun-2021 08:35:54 UTC] Breakfast
+[27-Jun-2021 08:35:54 UTC] flaticon-usb-cable
+[27-Jun-2021 08:35:54 UTC] USB Port
+[27-Jun-2021 08:35:54 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:35:54 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:35:54 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:35:54 UTC] Free Wifi
+[27-Jun-2021 08:35:54 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:35:54 UTC] Conditioner
+[27-Jun-2021 08:35:54 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:35:54 UTC] Tea & Coffee
+[27-Jun-2021 08:35:54 UTC] flaticon-usb-cable
+[27-Jun-2021 08:35:54 UTC] USB Port
+[27-Jun-2021 08:35:54 UTC] flaticon-fruits
+[27-Jun-2021 08:35:54 UTC] Fruits
+[27-Jun-2021 08:38:20 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:38:20 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:20 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:20 UTC] Free Wifi
+[27-Jun-2021 08:38:20 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:20 UTC] Conditioner
+[27-Jun-2021 08:38:20 UTC] flaticon-coffee
+[27-Jun-2021 08:38:20 UTC] Breakfast
+[27-Jun-2021 08:38:20 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:38:20 UTC] Tea & Coffee
+[27-Jun-2021 08:38:20 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:20 UTC] USB Port
+[27-Jun-2021 08:38:20 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:38:20 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:20 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:20 UTC] Free Wifi
+[27-Jun-2021 08:38:20 UTC] flaticon-tv-monitor
+[27-Jun-2021 08:38:20 UTC] 49' HD TV
+[27-Jun-2021 08:38:20 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:20 UTC] Conditioner
+[27-Jun-2021 08:38:20 UTC] flaticon-coffee
+[27-Jun-2021 08:38:20 UTC] Breakfast
+[27-Jun-2021 08:38:20 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:20 UTC] USB Port
+[27-Jun-2021 08:38:20 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:38:20 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:20 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:20 UTC] Free Wifi
+[27-Jun-2021 08:38:20 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:20 UTC] Conditioner
+[27-Jun-2021 08:38:20 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:38:20 UTC] Tea & Coffee
+[27-Jun-2021 08:38:20 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:20 UTC] USB Port
+[27-Jun-2021 08:38:20 UTC] flaticon-fruits
+[27-Jun-2021 08:38:20 UTC] Fruits
+[27-Jun-2021 08:38:31 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:38:31 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:31 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:31 UTC] Free Wifi
+[27-Jun-2021 08:38:31 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:31 UTC] Conditioner
+[27-Jun-2021 08:38:31 UTC] flaticon-coffee
+[27-Jun-2021 08:38:31 UTC] Breakfast
+[27-Jun-2021 08:38:31 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:38:31 UTC] Tea & Coffee
+[27-Jun-2021 08:38:31 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:31 UTC] USB Port
+[27-Jun-2021 08:38:31 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:38:31 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:31 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:31 UTC] Free Wifi
+[27-Jun-2021 08:38:31 UTC] flaticon-tv-monitor
+[27-Jun-2021 08:38:31 UTC] 49' HD TV
+[27-Jun-2021 08:38:31 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:31 UTC] Conditioner
+[27-Jun-2021 08:38:31 UTC] flaticon-coffee
+[27-Jun-2021 08:38:31 UTC] Breakfast
+[27-Jun-2021 08:38:31 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:31 UTC] USB Port
+[27-Jun-2021 08:38:31 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:38:31 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:31 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:31 UTC] Free Wifi
+[27-Jun-2021 08:38:31 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:31 UTC] Conditioner
+[27-Jun-2021 08:38:31 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:38:31 UTC] Tea & Coffee
+[27-Jun-2021 08:38:31 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:31 UTC] USB Port
+[27-Jun-2021 08:38:31 UTC] flaticon-fruits
+[27-Jun-2021 08:38:31 UTC] Fruits
+[27-Jun-2021 08:38:57 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:38:57 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:57 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:57 UTC] Free Wifi
+[27-Jun-2021 08:38:57 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:57 UTC] Conditioner
+[27-Jun-2021 08:38:57 UTC] flaticon-coffee
+[27-Jun-2021 08:38:57 UTC] Breakfast
+[27-Jun-2021 08:38:57 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:38:57 UTC] Tea & Coffee
+[27-Jun-2021 08:38:57 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:57 UTC] USB Port
+[27-Jun-2021 08:38:57 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:38:57 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:57 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:57 UTC] Free Wifi
+[27-Jun-2021 08:38:57 UTC] flaticon-tv-monitor
+[27-Jun-2021 08:38:57 UTC] 49' HD TV
+[27-Jun-2021 08:38:57 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:57 UTC] Conditioner
+[27-Jun-2021 08:38:57 UTC] flaticon-coffee
+[27-Jun-2021 08:38:57 UTC] Breakfast
+[27-Jun-2021 08:38:57 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:57 UTC] USB Port
+[27-Jun-2021 08:38:57 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:38:57 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:38:57 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:38:57 UTC] Free Wifi
+[27-Jun-2021 08:38:57 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:38:57 UTC] Conditioner
+[27-Jun-2021 08:38:57 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:38:57 UTC] Tea & Coffee
+[27-Jun-2021 08:38:57 UTC] flaticon-usb-cable
+[27-Jun-2021 08:38:57 UTC] USB Port
+[27-Jun-2021 08:38:57 UTC] flaticon-fruits
+[27-Jun-2021 08:38:57 UTC] Fruits
+[27-Jun-2021 08:39:16 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:39:16 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:39:16 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:39:16 UTC] Free Wifi
+[27-Jun-2021 08:39:16 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:39:16 UTC] Conditioner
+[27-Jun-2021 08:39:16 UTC] flaticon-coffee
+[27-Jun-2021 08:39:16 UTC] Breakfast
+[27-Jun-2021 08:39:16 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:39:16 UTC] Tea & Coffee
+[27-Jun-2021 08:39:16 UTC] flaticon-usb-cable
+[27-Jun-2021 08:39:16 UTC] USB Port
+[27-Jun-2021 08:39:16 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:39:16 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:39:16 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:39:16 UTC] Free Wifi
+[27-Jun-2021 08:39:16 UTC] flaticon-tv-monitor
+[27-Jun-2021 08:39:16 UTC] 49' HD TV
+[27-Jun-2021 08:39:16 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:39:16 UTC] Conditioner
+[27-Jun-2021 08:39:16 UTC] flaticon-coffee
+[27-Jun-2021 08:39:16 UTC] Breakfast
+[27-Jun-2021 08:39:16 UTC] flaticon-usb-cable
+[27-Jun-2021 08:39:16 UTC] USB Port
+[27-Jun-2021 08:39:16 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:39:16 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:39:16 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:39:16 UTC] Free Wifi
+[27-Jun-2021 08:39:16 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:39:16 UTC] Conditioner
+[27-Jun-2021 08:39:16 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:39:16 UTC] Tea & Coffee
+[27-Jun-2021 08:39:16 UTC] flaticon-usb-cable
+[27-Jun-2021 08:39:16 UTC] USB Port
+[27-Jun-2021 08:39:16 UTC] flaticon-fruits
+[27-Jun-2021 08:39:16 UTC] Fruits
+[27-Jun-2021 08:43:01 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 08:43:01 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:43:01 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:43:01 UTC] Free Wifi
+[27-Jun-2021 08:43:01 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:43:01 UTC] Conditioner
+[27-Jun-2021 08:43:01 UTC] flaticon-coffee
+[27-Jun-2021 08:43:01 UTC] Breakfast
+[27-Jun-2021 08:43:01 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:43:01 UTC] Tea & Coffee
+[27-Jun-2021 08:43:01 UTC] flaticon-usb-cable
+[27-Jun-2021 08:43:01 UTC] USB Port
+[27-Jun-2021 08:43:01 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 08:43:01 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:43:01 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:43:01 UTC] Free Wifi
+[27-Jun-2021 08:43:01 UTC] flaticon-tv-monitor
+[27-Jun-2021 08:43:01 UTC] 49' HD TV
+[27-Jun-2021 08:43:01 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:43:01 UTC] Conditioner
+[27-Jun-2021 08:43:01 UTC] flaticon-coffee
+[27-Jun-2021 08:43:01 UTC] Breakfast
+[27-Jun-2021 08:43:01 UTC] flaticon-usb-cable
+[27-Jun-2021 08:43:01 UTC] USB Port
+[27-Jun-2021 08:43:01 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 08:43:01 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 08:43:01 UTC] flaticon-wifi-signal
+[27-Jun-2021 08:43:01 UTC] Free Wifi
+[27-Jun-2021 08:43:01 UTC] flaticon-air-conditioner
+[27-Jun-2021 08:43:01 UTC] Conditioner
+[27-Jun-2021 08:43:01 UTC] flaticon-coffee-cup
+[27-Jun-2021 08:43:01 UTC] Tea & Coffee
+[27-Jun-2021 08:43:01 UTC] flaticon-usb-cable
+[27-Jun-2021 08:43:01 UTC] USB Port
+[27-Jun-2021 08:43:01 UTC] flaticon-fruits
+[27-Jun-2021 08:43:01 UTC] Fruits
+[27-Jun-2021 09:13:25 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 09:13:25 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:13:25 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:13:25 UTC] Free Wifi
+[27-Jun-2021 09:13:25 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:13:25 UTC] Conditioner
+[27-Jun-2021 09:13:25 UTC] flaticon-coffee
+[27-Jun-2021 09:13:25 UTC] Breakfast
+[27-Jun-2021 09:13:25 UTC] flaticon-coffee-cup
+[27-Jun-2021 09:13:25 UTC] Tea & Coffee
+[27-Jun-2021 09:13:25 UTC] flaticon-usb-cable
+[27-Jun-2021 09:13:25 UTC] USB Port
+[27-Jun-2021 09:13:25 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 09:13:25 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:13:25 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:13:25 UTC] Free Wifi
+[27-Jun-2021 09:13:25 UTC] flaticon-tv-monitor
+[27-Jun-2021 09:13:25 UTC] 49' HD TV
+[27-Jun-2021 09:13:25 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:13:25 UTC] Conditioner
+[27-Jun-2021 09:13:25 UTC] flaticon-coffee
+[27-Jun-2021 09:13:25 UTC] Breakfast
+[27-Jun-2021 09:13:25 UTC] flaticon-usb-cable
+[27-Jun-2021 09:13:25 UTC] USB Port
+[27-Jun-2021 09:13:25 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 09:13:25 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:13:25 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:13:25 UTC] Free Wifi
+[27-Jun-2021 09:13:25 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:13:25 UTC] Conditioner
+[27-Jun-2021 09:13:25 UTC] flaticon-coffee-cup
+[27-Jun-2021 09:13:25 UTC] Tea & Coffee
+[27-Jun-2021 09:13:25 UTC] flaticon-usb-cable
+[27-Jun-2021 09:13:25 UTC] USB Port
+[27-Jun-2021 09:13:25 UTC] flaticon-fruits
+[27-Jun-2021 09:13:25 UTC] Fruits
+[27-Jun-2021 09:13:32 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 09:13:32 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:13:32 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:13:32 UTC] Free Wifi
+[27-Jun-2021 09:13:32 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:13:32 UTC] Conditioner
+[27-Jun-2021 09:13:32 UTC] flaticon-coffee
+[27-Jun-2021 09:13:32 UTC] Breakfast
+[27-Jun-2021 09:13:32 UTC] flaticon-coffee-cup
+[27-Jun-2021 09:13:32 UTC] Tea & Coffee
+[27-Jun-2021 09:13:32 UTC] flaticon-usb-cable
+[27-Jun-2021 09:13:32 UTC] USB Port
+[27-Jun-2021 09:13:32 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 09:13:32 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:13:32 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:13:32 UTC] Free Wifi
+[27-Jun-2021 09:13:32 UTC] flaticon-tv-monitor
+[27-Jun-2021 09:13:32 UTC] 49' HD TV
+[27-Jun-2021 09:13:32 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:13:32 UTC] Conditioner
+[27-Jun-2021 09:13:32 UTC] flaticon-coffee
+[27-Jun-2021 09:13:32 UTC] Breakfast
+[27-Jun-2021 09:13:32 UTC] flaticon-usb-cable
+[27-Jun-2021 09:13:32 UTC] USB Port
+[27-Jun-2021 09:13:32 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 09:13:32 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:13:32 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:13:32 UTC] Free Wifi
+[27-Jun-2021 09:13:32 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:13:32 UTC] Conditioner
+[27-Jun-2021 09:13:32 UTC] flaticon-coffee-cup
+[27-Jun-2021 09:13:32 UTC] Tea & Coffee
+[27-Jun-2021 09:13:32 UTC] flaticon-usb-cable
+[27-Jun-2021 09:13:32 UTC] USB Port
+[27-Jun-2021 09:13:32 UTC] flaticon-fruits
+[27-Jun-2021 09:13:32 UTC] Fruits
+[27-Jun-2021 09:15:50 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 09:15:50 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:15:50 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:15:50 UTC] Free Wifi
+[27-Jun-2021 09:15:50 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:15:50 UTC] Conditioner
+[27-Jun-2021 09:15:50 UTC] flaticon-coffee
+[27-Jun-2021 09:15:50 UTC] Breakfast
+[27-Jun-2021 09:15:50 UTC] flaticon-coffee-cup
+[27-Jun-2021 09:15:50 UTC] Tea & Coffee
+[27-Jun-2021 09:15:50 UTC] flaticon-usb-cable
+[27-Jun-2021 09:15:50 UTC] USB Port
+[27-Jun-2021 09:15:50 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 09:15:50 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:15:50 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:15:50 UTC] Free Wifi
+[27-Jun-2021 09:15:50 UTC] flaticon-tv-monitor
+[27-Jun-2021 09:15:50 UTC] 49' HD TV
+[27-Jun-2021 09:15:50 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:15:50 UTC] Conditioner
+[27-Jun-2021 09:15:50 UTC] flaticon-coffee
+[27-Jun-2021 09:15:50 UTC] Breakfast
+[27-Jun-2021 09:15:50 UTC] flaticon-usb-cable
+[27-Jun-2021 09:15:50 UTC] USB Port
+[27-Jun-2021 09:15:50 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 09:15:50 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 09:15:50 UTC] flaticon-wifi-signal
+[27-Jun-2021 09:15:50 UTC] Free Wifi
+[27-Jun-2021 09:15:50 UTC] flaticon-air-conditioner
+[27-Jun-2021 09:15:50 UTC] Conditioner
+[27-Jun-2021 09:15:50 UTC] flaticon-coffee-cup
+[27-Jun-2021 09:15:50 UTC] Tea & Coffee
+[27-Jun-2021 09:15:50 UTC] flaticon-usb-cable
+[27-Jun-2021 09:15:50 UTC] USB Port
+[27-Jun-2021 09:15:50 UTC] flaticon-fruits
+[27-Jun-2021 09:15:50 UTC] Fruits
+[27-Jun-2021 09:55:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/add_reserve.php:115
+Stack trace:
+#0 {main}
+  thrown in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/add_reserve.php on line 115
+[27-Jun-2021 09:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/add_reserve.php:115
+Stack trace:
+#0 {main}
+  thrown in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/add_reserve.php on line 115
+[27-Jun-2021 10:01:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/add_reserve.php:115
+Stack trace:
+#0 {main}
+  thrown in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/add_reserve.php on line 115
+[27-Jun-2021 10:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/add_reserve.php:115
+Stack trace:
+#0 {main}
+  thrown in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/add_reserve.php on line 115
+[27-Jun-2021 10:03:39 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 10:03:39 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:03:39 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:03:39 UTC] Free Wifi
+[27-Jun-2021 10:03:39 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:03:39 UTC] Conditioner
+[27-Jun-2021 10:03:39 UTC] flaticon-coffee
+[27-Jun-2021 10:03:39 UTC] Breakfast
+[27-Jun-2021 10:03:39 UTC] flaticon-coffee-cup
+[27-Jun-2021 10:03:39 UTC] Tea & Coffee
+[27-Jun-2021 10:03:39 UTC] flaticon-usb-cable
+[27-Jun-2021 10:03:39 UTC] USB Port
+[27-Jun-2021 10:03:39 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 10:03:39 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:03:39 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:03:39 UTC] Free Wifi
+[27-Jun-2021 10:03:39 UTC] flaticon-tv-monitor
+[27-Jun-2021 10:03:39 UTC] 49' HD TV
+[27-Jun-2021 10:03:39 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:03:39 UTC] Conditioner
+[27-Jun-2021 10:03:39 UTC] flaticon-coffee
+[27-Jun-2021 10:03:39 UTC] Breakfast
+[27-Jun-2021 10:03:39 UTC] flaticon-usb-cable
+[27-Jun-2021 10:03:39 UTC] USB Port
+[27-Jun-2021 10:03:39 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 10:03:39 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:03:39 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:03:39 UTC] Free Wifi
+[27-Jun-2021 10:03:39 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:03:39 UTC] Conditioner
+[27-Jun-2021 10:03:39 UTC] flaticon-coffee-cup
+[27-Jun-2021 10:03:39 UTC] Tea & Coffee
+[27-Jun-2021 10:03:39 UTC] flaticon-usb-cable
+[27-Jun-2021 10:03:39 UTC] USB Port
+[27-Jun-2021 10:03:39 UTC] flaticon-fruits
+[27-Jun-2021 10:03:39 UTC] Fruits
+[27-Jun-2021 10:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/32.php:115
+Stack trace:
+#0 {main}
+  thrown in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/32.php on line 115
+[27-Jun-2021 10:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/32.php:115
+Stack trace:
+#0 {main}
+  thrown in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/bookinglong/32.php on line 115
+[27-Jun-2021 10:08:34 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 10:08:34 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:08:34 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:08:34 UTC] Free Wifi
+[27-Jun-2021 10:08:34 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:08:34 UTC] Conditioner
+[27-Jun-2021 10:08:34 UTC] flaticon-coffee
+[27-Jun-2021 10:08:34 UTC] Breakfast
+[27-Jun-2021 10:08:34 UTC] flaticon-coffee-cup
+[27-Jun-2021 10:08:34 UTC] Tea & Coffee
+[27-Jun-2021 10:08:34 UTC] flaticon-usb-cable
+[27-Jun-2021 10:08:34 UTC] USB Port
+[27-Jun-2021 10:08:34 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 10:08:34 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:08:34 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:08:34 UTC] Free Wifi
+[27-Jun-2021 10:08:34 UTC] flaticon-tv-monitor
+[27-Jun-2021 10:08:34 UTC] 49' HD TV
+[27-Jun-2021 10:08:34 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:08:34 UTC] Conditioner
+[27-Jun-2021 10:08:34 UTC] flaticon-coffee
+[27-Jun-2021 10:08:34 UTC] Breakfast
+[27-Jun-2021 10:08:34 UTC] flaticon-usb-cable
+[27-Jun-2021 10:08:34 UTC] USB Port
+[27-Jun-2021 10:08:34 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 10:08:34 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:08:34 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:08:34 UTC] Free Wifi
+[27-Jun-2021 10:08:34 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:08:34 UTC] Conditioner
+[27-Jun-2021 10:08:34 UTC] flaticon-coffee-cup
+[27-Jun-2021 10:08:34 UTC] Tea & Coffee
+[27-Jun-2021 10:08:34 UTC] flaticon-usb-cable
+[27-Jun-2021 10:08:34 UTC] USB Port
+[27-Jun-2021 10:08:34 UTC] flaticon-fruits
+[27-Jun-2021 10:08:34 UTC] Fruits
+[27-Jun-2021 10:22:20 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 10:22:20 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:22:20 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:22:20 UTC] Free Wifi
+[27-Jun-2021 10:22:20 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:22:20 UTC] Conditioner
+[27-Jun-2021 10:22:20 UTC] flaticon-coffee
+[27-Jun-2021 10:22:20 UTC] Breakfast
+[27-Jun-2021 10:22:20 UTC] flaticon-coffee-cup
+[27-Jun-2021 10:22:20 UTC] Tea & Coffee
+[27-Jun-2021 10:22:20 UTC] flaticon-usb-cable
+[27-Jun-2021 10:22:20 UTC] USB Port
+[27-Jun-2021 10:22:20 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 10:22:20 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:22:20 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:22:20 UTC] Free Wifi
+[27-Jun-2021 10:22:20 UTC] flaticon-tv-monitor
+[27-Jun-2021 10:22:20 UTC] 49' HD TV
+[27-Jun-2021 10:22:20 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:22:20 UTC] Conditioner
+[27-Jun-2021 10:22:20 UTC] flaticon-coffee
+[27-Jun-2021 10:22:20 UTC] Breakfast
+[27-Jun-2021 10:22:20 UTC] flaticon-usb-cable
+[27-Jun-2021 10:22:20 UTC] USB Port
+[27-Jun-2021 10:22:20 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 10:22:20 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:22:20 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:22:20 UTC] Free Wifi
+[27-Jun-2021 10:22:20 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:22:20 UTC] Conditioner
+[27-Jun-2021 10:22:20 UTC] flaticon-coffee-cup
+[27-Jun-2021 10:22:20 UTC] Tea & Coffee
+[27-Jun-2021 10:22:20 UTC] flaticon-usb-cable
+[27-Jun-2021 10:22:20 UTC] USB Port
+[27-Jun-2021 10:22:20 UTC] flaticon-fruits
+[27-Jun-2021 10:22:20 UTC] Fruits
+[27-Jun-2021 10:22:22 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 10:22:22 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:22:22 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:22:22 UTC] Free Wifi
+[27-Jun-2021 10:22:22 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:22:22 UTC] Conditioner
+[27-Jun-2021 10:22:22 UTC] flaticon-coffee
+[27-Jun-2021 10:22:22 UTC] Breakfast
+[27-Jun-2021 10:22:22 UTC] flaticon-coffee-cup
+[27-Jun-2021 10:22:22 UTC] Tea & Coffee
+[27-Jun-2021 10:22:22 UTC] flaticon-usb-cable
+[27-Jun-2021 10:22:22 UTC] USB Port
+[27-Jun-2021 10:22:22 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 10:22:22 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:22:22 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:22:22 UTC] Free Wifi
+[27-Jun-2021 10:22:22 UTC] flaticon-tv-monitor
+[27-Jun-2021 10:22:22 UTC] 49' HD TV
+[27-Jun-2021 10:22:22 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:22:22 UTC] Conditioner
+[27-Jun-2021 10:22:22 UTC] flaticon-coffee
+[27-Jun-2021 10:22:22 UTC] Breakfast
+[27-Jun-2021 10:22:22 UTC] flaticon-usb-cable
+[27-Jun-2021 10:22:22 UTC] USB Port
+[27-Jun-2021 10:22:22 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 10:22:22 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 10:22:22 UTC] flaticon-wifi-signal
+[27-Jun-2021 10:22:22 UTC] Free Wifi
+[27-Jun-2021 10:22:22 UTC] flaticon-air-conditioner
+[27-Jun-2021 10:22:22 UTC] Conditioner
+[27-Jun-2021 10:22:22 UTC] flaticon-coffee-cup
+[27-Jun-2021 10:22:22 UTC] Tea & Coffee
+[27-Jun-2021 10:22:22 UTC] flaticon-usb-cable
+[27-Jun-2021 10:22:22 UTC] USB Port
+[27-Jun-2021 10:22:22 UTC] flaticon-fruits
+[27-Jun-2021 10:22:22 UTC] Fruits
+[27-Jun-2021 11:57:57 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20013 LIMIT 5
+[27-Jun-2021 11:57:58 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 11:57:58 UTC] flaticon-wifi-signal
+[27-Jun-2021 11:57:58 UTC] Free Wifi
+[27-Jun-2021 11:57:58 UTC] flaticon-air-conditioner
+[27-Jun-2021 11:57:58 UTC] Conditioner
+[27-Jun-2021 11:57:58 UTC] flaticon-coffee
+[27-Jun-2021 11:57:58 UTC] Breakfast
+[27-Jun-2021 11:57:58 UTC] flaticon-coffee-cup
+[27-Jun-2021 11:57:58 UTC] Tea & Coffee
+[27-Jun-2021 11:57:58 UTC] flaticon-usb-cable
+[27-Jun-2021 11:57:58 UTC] USB Port
+[27-Jun-2021 11:57:58 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20014 LIMIT 5
+[27-Jun-2021 11:57:58 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 11:57:58 UTC] flaticon-wifi-signal
+[27-Jun-2021 11:57:58 UTC] Free Wifi
+[27-Jun-2021 11:57:58 UTC] flaticon-tv-monitor
+[27-Jun-2021 11:57:58 UTC] 49' HD TV
+[27-Jun-2021 11:57:58 UTC] flaticon-air-conditioner
+[27-Jun-2021 11:57:58 UTC] Conditioner
+[27-Jun-2021 11:57:58 UTC] flaticon-coffee
+[27-Jun-2021 11:57:58 UTC] Breakfast
+[27-Jun-2021 11:57:58 UTC] flaticon-usb-cable
+[27-Jun-2021 11:57:58 UTC] USB Port
+[27-Jun-2021 11:57:58 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20015 LIMIT 5
+[27-Jun-2021 11:57:58 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[27-Jun-2021 11:57:58 UTC] flaticon-wifi-signal
+[27-Jun-2021 11:57:58 UTC] Free Wifi
+[27-Jun-2021 11:57:58 UTC] flaticon-air-conditioner
+[27-Jun-2021 11:57:58 UTC] Conditioner
+[27-Jun-2021 11:57:58 UTC] flaticon-coffee-cup
+[27-Jun-2021 11:57:58 UTC] Tea & Coffee
+[27-Jun-2021 11:57:58 UTC] flaticon-usb-cable
+[27-Jun-2021 11:57:58 UTC] USB Port
+[27-Jun-2021 11:57:58 UTC] flaticon-fruits
+[27-Jun-2021 11:57:58 UTC] Fruits
+[28-Jun-2021 01:40:32 UTC] 19001
+[28-Jun-2021 01:40:32 UTC] SELECT *
+                                FROM homestay_room 
+                                INNER JOIN room_detail on homestay_room.room_id = room_detail.room_id
+                                
+                                WHERE available = 1 AND homestay_id = 19001
+[28-Jun-2021 01:40:32 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20002 LIMIT 5
+[28-Jun-2021 01:40:32 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[28-Jun-2021 01:40:32 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:40:32 UTC] Free Wifi
+[28-Jun-2021 01:40:32 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:40:32 UTC] Conditioner
+[28-Jun-2021 01:40:32 UTC] flaticon-coffee-cup
+[28-Jun-2021 01:40:32 UTC] Tea & Coffee
+[28-Jun-2021 01:40:32 UTC] flaticon-usb-cable
+[28-Jun-2021 01:40:32 UTC] USB Port
+[28-Jun-2021 01:40:32 UTC] flaticon-shower
+[28-Jun-2021 01:40:32 UTC] Bathroom Kit
+[28-Jun-2021 01:40:32 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20003 LIMIT 5
+[28-Jun-2021 01:40:32 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:40:32 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:40:32 UTC] Free Wifi
+[28-Jun-2021 01:40:32 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:40:32 UTC] Conditioner
+[28-Jun-2021 01:40:32 UTC] flaticon-usb-cable
+[28-Jun-2021 01:40:32 UTC] USB Port
+[28-Jun-2021 01:40:32 UTC] flaticon-fridge
+[28-Jun-2021 01:40:32 UTC] Refridge
+[28-Jun-2021 01:40:32 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20004 LIMIT 5
+[28-Jun-2021 01:40:32 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:40:32 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:40:32 UTC] Free Wifi
+[28-Jun-2021 01:40:32 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:40:32 UTC] Conditioner
+[28-Jun-2021 01:40:32 UTC] flaticon-usb-cable
+[28-Jun-2021 01:40:32 UTC] USB Port
+[28-Jun-2021 01:40:32 UTC] flaticon-fridge
+[28-Jun-2021 01:40:32 UTC] Refridge
+[28-Jun-2021 01:40:50 UTC] Connected
+[28-Jun-2021 01:40:50 UTC] Confirmation: 
+[28-Jun-2021 01:40:50 UTC] shay
+[28-Jun-2021 01:40:50 UTC] Nguyen
+[28-Jun-2021 01:40:50 UTC] 158a Le Loi
+[28-Jun-2021 01:40:50 UTC] 123415112
+[28-Jun-2021 01:40:50 UTC] 2021-06-28
+[28-Jun-2021 01:40:50 UTC] 2021-06-30
+[28-Jun-2021 01:40:50 UTC] 20002
+[28-Jun-2021 01:40:50 UTC] price: 27
+[28-Jun-2021 01:40:50 UTC] Time: 3
+[28-Jun-2021 01:40:50 UTC] Price: 27
+[28-Jun-2021 01:40:50 UTC] SQL Code; SELECT * FROM `guest` 
+                            WHERE `firstname` = 'shay' && `lastname` = 'Nguyen' && `contactno` = '123415112'
+[28-Jun-2021 01:40:50 UTC] 
+[28-Jun-2021 01:40:50 UTC] Random key: 926404
+[28-Jun-2021 01:45:23 UTC] 19001
+[28-Jun-2021 01:45:23 UTC] SELECT *
+                                FROM homestay_room 
+                                INNER JOIN room_detail on homestay_room.room_id = room_detail.room_id
+                                
+                                WHERE available = 1 AND homestay_id = 19001
+[28-Jun-2021 01:45:23 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20002 LIMIT 5
+[28-Jun-2021 01:45:23 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[28-Jun-2021 01:45:23 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:45:23 UTC] Free Wifi
+[28-Jun-2021 01:45:23 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:45:23 UTC] Conditioner
+[28-Jun-2021 01:45:23 UTC] flaticon-coffee-cup
+[28-Jun-2021 01:45:23 UTC] Tea & Coffee
+[28-Jun-2021 01:45:23 UTC] flaticon-usb-cable
+[28-Jun-2021 01:45:23 UTC] USB Port
+[28-Jun-2021 01:45:23 UTC] flaticon-shower
+[28-Jun-2021 01:45:23 UTC] Bathroom Kit
+[28-Jun-2021 01:45:23 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20003 LIMIT 5
+[28-Jun-2021 01:45:23 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:45:23 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:45:23 UTC] Free Wifi
+[28-Jun-2021 01:45:23 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:45:23 UTC] Conditioner
+[28-Jun-2021 01:45:23 UTC] flaticon-usb-cable
+[28-Jun-2021 01:45:23 UTC] USB Port
+[28-Jun-2021 01:45:23 UTC] flaticon-fridge
+[28-Jun-2021 01:45:23 UTC] Refridge
+[28-Jun-2021 01:45:23 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20004 LIMIT 5
+[28-Jun-2021 01:45:23 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:45:23 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:45:23 UTC] Free Wifi
+[28-Jun-2021 01:45:23 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:45:23 UTC] Conditioner
+[28-Jun-2021 01:45:23 UTC] flaticon-usb-cable
+[28-Jun-2021 01:45:23 UTC] USB Port
+[28-Jun-2021 01:45:23 UTC] flaticon-fridge
+[28-Jun-2021 01:45:23 UTC] Refridge
+[28-Jun-2021 01:45:37 UTC] Connected
+[28-Jun-2021 01:45:37 UTC] Confirmation: 
+[28-Jun-2021 01:45:37 UTC] Shay
+[28-Jun-2021 01:45:37 UTC] Nguyen
+[28-Jun-2021 01:45:37 UTC] 158a Le Loi
+[28-Jun-2021 01:45:37 UTC] 123415112
+[28-Jun-2021 01:45:37 UTC] 2021-06-28
+[28-Jun-2021 01:45:37 UTC] 2021-07-01
+[28-Jun-2021 01:45:37 UTC] 20002
+[28-Jun-2021 01:45:37 UTC] price: 27
+[28-Jun-2021 01:45:37 UTC] Time: 4
+[28-Jun-2021 01:45:37 UTC] Price: 27
+[28-Jun-2021 01:45:37 UTC] Random key: 502972
+[28-Jun-2021 01:45:37 UTC] SQL Code; INSERT INTO `guest` (firstname, lastname, address, contactno, reservation_code)
+                                    VALUES('Shay', 'Nguyen', '158a Le Loi', '123415112', '502972')
+[28-Jun-2021 01:45:37 UTC] 
+[28-Jun-2021 01:46:58 UTC] Connected
+[28-Jun-2021 01:46:58 UTC] Confirmation: 
+[28-Jun-2021 01:46:58 UTC] Shay
+[28-Jun-2021 01:46:58 UTC] Nguyen
+[28-Jun-2021 01:46:58 UTC] 158a Le Loi
+[28-Jun-2021 01:46:58 UTC] 123415112
+[28-Jun-2021 01:46:58 UTC] 2021-06-22
+[28-Jun-2021 01:46:58 UTC] 2021-07-13
+[28-Jun-2021 01:46:58 UTC] 20002
+[28-Jun-2021 01:46:58 UTC] price: 27
+[28-Jun-2021 01:46:58 UTC] Time: 22
+[28-Jun-2021 01:46:58 UTC] Price: 27
+[28-Jun-2021 01:46:58 UTC] Random key: 117178
+[28-Jun-2021 01:46:58 UTC] SQL Code; INSERT INTO `guest` (firstname, lastname, address, contactno, reservation_code)
+                                    VALUES('Shay', 'Nguyen', '158a Le Loi', '123415112', '117178')
+[28-Jun-2021 01:46:58 UTC] 
+[28-Jun-2021 01:48:24 UTC] 19001
+[28-Jun-2021 01:48:24 UTC] SELECT *
+                                FROM homestay_room 
+                                INNER JOIN room_detail on homestay_room.room_id = room_detail.room_id
+                                
+                                WHERE available = 1 AND homestay_id = 19001
+[28-Jun-2021 01:48:24 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20002 LIMIT 5
+[28-Jun-2021 01:48:24 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[28-Jun-2021 01:48:24 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:48:24 UTC] Free Wifi
+[28-Jun-2021 01:48:24 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:48:24 UTC] Conditioner
+[28-Jun-2021 01:48:24 UTC] flaticon-coffee-cup
+[28-Jun-2021 01:48:24 UTC] Tea & Coffee
+[28-Jun-2021 01:48:24 UTC] flaticon-usb-cable
+[28-Jun-2021 01:48:24 UTC] USB Port
+[28-Jun-2021 01:48:24 UTC] flaticon-shower
+[28-Jun-2021 01:48:24 UTC] Bathroom Kit
+[28-Jun-2021 01:48:24 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20003 LIMIT 5
+[28-Jun-2021 01:48:24 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:48:24 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:48:24 UTC] Free Wifi
+[28-Jun-2021 01:48:24 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:48:24 UTC] Conditioner
+[28-Jun-2021 01:48:24 UTC] flaticon-usb-cable
+[28-Jun-2021 01:48:24 UTC] USB Port
+[28-Jun-2021 01:48:24 UTC] flaticon-fridge
+[28-Jun-2021 01:48:24 UTC] Refridge
+[28-Jun-2021 01:48:24 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20004 LIMIT 5
+[28-Jun-2021 01:48:24 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:48:24 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:48:24 UTC] Free Wifi
+[28-Jun-2021 01:48:24 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:48:24 UTC] Conditioner
+[28-Jun-2021 01:48:24 UTC] flaticon-usb-cable
+[28-Jun-2021 01:48:24 UTC] USB Port
+[28-Jun-2021 01:48:24 UTC] flaticon-fridge
+[28-Jun-2021 01:48:24 UTC] Refridge
+[28-Jun-2021 01:48:39 UTC] Connected
+[28-Jun-2021 01:48:39 UTC] Confirmation: 
+[28-Jun-2021 01:48:39 UTC] Shay
+[28-Jun-2021 01:48:39 UTC] Nguyen
+[28-Jun-2021 01:48:39 UTC] 158a Le Loi
+[28-Jun-2021 01:48:39 UTC] 123415112
+[28-Jun-2021 01:48:39 UTC] 2021-06-28
+[28-Jun-2021 01:48:39 UTC] 2021-06-21
+[28-Jun-2021 01:48:39 UTC] 20002
+[28-Jun-2021 01:48:39 UTC] price: 27
+[28-Jun-2021 01:48:39 UTC] Time: 25
+[28-Jun-2021 01:48:39 UTC] Price: 27
+[28-Jun-2021 01:48:39 UTC] Random key: 264727
+[28-Jun-2021 01:48:39 UTC] SQL Code; INSERT INTO `guest` (firstname, lastname, address, contactno, reservation_code)
+                                    VALUES('Shay', 'Nguyen', '158a Le Loi', '123415112', '264727')
+[28-Jun-2021 01:48:39 UTC] 
+[28-Jun-2021 01:52:58 UTC] 19001
+[28-Jun-2021 01:52:58 UTC] SELECT *
+                                FROM homestay_room 
+                                INNER JOIN room_detail on homestay_room.room_id = room_detail.room_id
+                                
+                                WHERE available = 1 AND homestay_id = 19001
+[28-Jun-2021 01:52:58 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20002 LIMIT 5
+[28-Jun-2021 01:52:58 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[28-Jun-2021 01:52:58 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:52:58 UTC] Free Wifi
+[28-Jun-2021 01:52:58 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:52:58 UTC] Conditioner
+[28-Jun-2021 01:52:58 UTC] flaticon-coffee-cup
+[28-Jun-2021 01:52:58 UTC] Tea & Coffee
+[28-Jun-2021 01:52:58 UTC] flaticon-usb-cable
+[28-Jun-2021 01:52:58 UTC] USB Port
+[28-Jun-2021 01:52:58 UTC] flaticon-shower
+[28-Jun-2021 01:52:58 UTC] Bathroom Kit
+[28-Jun-2021 01:52:58 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20003 LIMIT 5
+[28-Jun-2021 01:52:58 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:52:58 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:52:58 UTC] Free Wifi
+[28-Jun-2021 01:52:58 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:52:58 UTC] Conditioner
+[28-Jun-2021 01:52:58 UTC] flaticon-usb-cable
+[28-Jun-2021 01:52:58 UTC] USB Port
+[28-Jun-2021 01:52:58 UTC] flaticon-fridge
+[28-Jun-2021 01:52:58 UTC] Refridge
+[28-Jun-2021 01:52:58 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20004 LIMIT 5
+[28-Jun-2021 01:52:58 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:52:58 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:52:58 UTC] Free Wifi
+[28-Jun-2021 01:52:58 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:52:58 UTC] Conditioner
+[28-Jun-2021 01:52:58 UTC] flaticon-usb-cable
+[28-Jun-2021 01:52:58 UTC] USB Port
+[28-Jun-2021 01:52:58 UTC] flaticon-fridge
+[28-Jun-2021 01:52:58 UTC] Refridge
+[28-Jun-2021 01:53:24 UTC] Connected
+[28-Jun-2021 01:53:24 UTC] Confirmation: 
+[28-Jun-2021 01:53:24 UTC] Ny
+[28-Jun-2021 01:53:24 UTC] Le
+[28-Jun-2021 01:53:24 UTC] 100 Le duan
+[28-Jun-2021 01:53:24 UTC] 1234123
+[28-Jun-2021 01:53:24 UTC] 2021-06-28
+[28-Jun-2021 01:53:24 UTC] 2021-06-30
+[28-Jun-2021 01:53:24 UTC] 20002
+[28-Jun-2021 01:53:24 UTC] price: 27
+[28-Jun-2021 01:53:24 UTC] Time: 3
+[28-Jun-2021 01:53:24 UTC] Price: 27
+[28-Jun-2021 01:53:24 UTC] Random key: 619920
+[28-Jun-2021 01:53:27 UTC] Connected
+[28-Jun-2021 01:53:27 UTC] Confirmation: 
+[28-Jun-2021 01:53:27 UTC] A
+[28-Jun-2021 01:53:27 UTC] 3b123
+[28-Jun-2021 01:53:27 UTC] 1
+[28-Jun-2021 01:53:27 UTC] 123
+[28-Jun-2021 01:53:27 UTC] 2029-12-10
+[28-Jun-2021 01:53:27 UTC] 2029-12-11
+[28-Jun-2021 01:53:27 UTC] 20013
+[28-Jun-2021 01:53:27 UTC] price: 38
+[28-Jun-2021 01:53:27 UTC] Time: 2
+[28-Jun-2021 01:53:27 UTC] Price: 38
+[28-Jun-2021 01:53:27 UTC] Random key: 893099
+[28-Jun-2021 01:58:02 UTC] 19001
+[28-Jun-2021 01:58:02 UTC] SELECT *
+                                FROM homestay_room 
+                                INNER JOIN room_detail on homestay_room.room_id = room_detail.room_id
+                                
+                                WHERE available = 1 AND homestay_id = 19001
+[28-Jun-2021 01:58:02 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20002 LIMIT 5
+[28-Jun-2021 01:58:02 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[28-Jun-2021 01:58:02 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:58:02 UTC] Free Wifi
+[28-Jun-2021 01:58:02 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:58:02 UTC] Conditioner
+[28-Jun-2021 01:58:02 UTC] flaticon-coffee-cup
+[28-Jun-2021 01:58:02 UTC] Tea & Coffee
+[28-Jun-2021 01:58:02 UTC] flaticon-usb-cable
+[28-Jun-2021 01:58:02 UTC] USB Port
+[28-Jun-2021 01:58:02 UTC] flaticon-shower
+[28-Jun-2021 01:58:02 UTC] Bathroom Kit
+[28-Jun-2021 01:58:02 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20003 LIMIT 5
+[28-Jun-2021 01:58:02 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:58:02 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:58:02 UTC] Free Wifi
+[28-Jun-2021 01:58:02 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:58:02 UTC] Conditioner
+[28-Jun-2021 01:58:02 UTC] flaticon-usb-cable
+[28-Jun-2021 01:58:02 UTC] USB Port
+[28-Jun-2021 01:58:02 UTC] flaticon-fridge
+[28-Jun-2021 01:58:02 UTC] Refridge
+[28-Jun-2021 01:58:02 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20004 LIMIT 5
+[28-Jun-2021 01:58:02 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 01:58:02 UTC] flaticon-wifi-signal
+[28-Jun-2021 01:58:02 UTC] Free Wifi
+[28-Jun-2021 01:58:02 UTC] flaticon-air-conditioner
+[28-Jun-2021 01:58:02 UTC] Conditioner
+[28-Jun-2021 01:58:02 UTC] flaticon-usb-cable
+[28-Jun-2021 01:58:02 UTC] USB Port
+[28-Jun-2021 01:58:02 UTC] flaticon-fridge
+[28-Jun-2021 01:58:02 UTC] Refridge
+[28-Jun-2021 01:58:17 UTC] Connected
+[28-Jun-2021 01:58:17 UTC] Confirmation: 
+[28-Jun-2021 01:58:17 UTC] Ny
+[28-Jun-2021 01:58:17 UTC] Le
+[28-Jun-2021 01:58:17 UTC] 100 Le duan
+[28-Jun-2021 01:58:17 UTC] 1234123
+[28-Jun-2021 01:58:17 UTC] 2021-06-28
+[28-Jun-2021 01:58:17 UTC] 2021-06-30
+[28-Jun-2021 01:58:17 UTC] 20004
+[28-Jun-2021 01:58:17 UTC] price: 10
+[28-Jun-2021 01:58:17 UTC] Time: 3
+[28-Jun-2021 01:58:17 UTC] Price: 10
+[28-Jun-2021 01:58:17 UTC] Random key: 533793
+[28-Jun-2021 02:14:59 UTC] 19001
+[28-Jun-2021 02:14:59 UTC] SELECT *
+                                FROM homestay_room 
+                                INNER JOIN room_detail on homestay_room.room_id = room_detail.room_id
+                                
+                                WHERE available = 1 AND homestay_id = 19001
+[28-Jun-2021 02:14:59 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20002 LIMIT 5
+[28-Jun-2021 02:14:59 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[28-Jun-2021 02:14:59 UTC] flaticon-wifi-signal
+[28-Jun-2021 02:14:59 UTC] Free Wifi
+[28-Jun-2021 02:14:59 UTC] flaticon-air-conditioner
+[28-Jun-2021 02:14:59 UTC] Conditioner
+[28-Jun-2021 02:14:59 UTC] flaticon-coffee-cup
+[28-Jun-2021 02:14:59 UTC] Tea & Coffee
+[28-Jun-2021 02:14:59 UTC] flaticon-usb-cable
+[28-Jun-2021 02:14:59 UTC] USB Port
+[28-Jun-2021 02:14:59 UTC] flaticon-shower
+[28-Jun-2021 02:14:59 UTC] Bathroom Kit
+[28-Jun-2021 02:14:59 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20003 LIMIT 5
+[28-Jun-2021 02:14:59 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 02:14:59 UTC] flaticon-wifi-signal
+[28-Jun-2021 02:14:59 UTC] Free Wifi
+[28-Jun-2021 02:14:59 UTC] flaticon-air-conditioner
+[28-Jun-2021 02:14:59 UTC] Conditioner
+[28-Jun-2021 02:14:59 UTC] flaticon-usb-cable
+[28-Jun-2021 02:14:59 UTC] USB Port
+[28-Jun-2021 02:14:59 UTC] flaticon-fridge
+[28-Jun-2021 02:14:59 UTC] Refridge
+[28-Jun-2021 02:14:59 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20004 LIMIT 5
+[28-Jun-2021 02:14:59 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+[28-Jun-2021 02:14:59 UTC] flaticon-wifi-signal
+[28-Jun-2021 02:14:59 UTC] Free Wifi
+[28-Jun-2021 02:14:59 UTC] flaticon-air-conditioner
+[28-Jun-2021 02:14:59 UTC] Conditioner
+[28-Jun-2021 02:14:59 UTC] flaticon-usb-cable
+[28-Jun-2021 02:14:59 UTC] USB Port
+[28-Jun-2021 02:14:59 UTC] flaticon-fridge
+[28-Jun-2021 02:14:59 UTC] Refridge
+[28-Jun-2021 02:16:15 UTC] Connected
+[28-Jun-2021 02:16:15 UTC] Confirmation: 
+[28-Jun-2021 02:16:15 UTC] Shay
+[28-Jun-2021 02:16:15 UTC] Nguyen
+[28-Jun-2021 02:16:15 UTC] 100 Le duan
+[28-Jun-2021 02:16:15 UTC] 123456789
+[28-Jun-2021 02:16:15 UTC] 2021-06-28
+[28-Jun-2021 02:16:15 UTC] 2021-06-30
+[28-Jun-2021 02:16:15 UTC] 20002
+[28-Jun-2021 02:16:15 UTC] price: 27
+[28-Jun-2021 02:16:15 UTC] Time: 3
+[28-Jun-2021 02:16:15 UTC] Price: 27
+[28-Jun-2021 02:16:15 UTC] Random key: 809334
+[28-Jun-2021 02:16:15 UTC] SQL Code; INSERT INTO `guest` (firstname, lastname, address, contactno, reservation_code)
+                                    VALUES('Shay', 'Nguyen', '100 Le duan', '123456789', '809334')
+[28-Jun-2021 02:16:15 UTC] 
+[28-Jun-2021 02:28:00 UTC] 19003
+[28-Jun-2021 02:28:00 UTC] SELECT *
+                                FROM homestay_room 
+                                INNER JOIN room_detail on homestay_room.room_id = room_detail.room_id
+                                
+                                WHERE available = 1 AND homestay_id = 19003
+[28-Jun-2021 02:28:00 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20009 LIMIT 5
+[28-Jun-2021 02:28:00 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[28-Jun-2021 02:28:00 UTC] flaticon-wifi-signal
+[28-Jun-2021 02:28:00 UTC] Free Wifi
+[28-Jun-2021 02:28:00 UTC] flaticon-air-conditioner
+[28-Jun-2021 02:28:00 UTC] Conditioner
+[28-Jun-2021 02:28:00 UTC] flaticon-coffee-cup
+[28-Jun-2021 02:28:00 UTC] Tea & Coffee
+[28-Jun-2021 02:28:00 UTC] flaticon-usb-cable
+[28-Jun-2021 02:28:00 UTC] USB Port
+[28-Jun-2021 02:28:00 UTC] flaticon-shower
+[28-Jun-2021 02:28:00 UTC] Bathroom Kit
+[28-Jun-2021 02:28:00 UTC] SELECT DISTINCT flaticon, amenity_name
+                                            FROM room_amenity
+                                            INNER JOIN amenities on room_amenity.amenity_id = amenities.amenity_id
+                                            WHERE room_id = 20010 LIMIT 5
+[28-Jun-2021 02:28:00 UTC] mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 2
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+[28-Jun-2021 02:28:00 UTC] flaticon-wifi-signal
+[28-Jun-2021 02:28:00 UTC] Free Wifi
+[28-Jun-2021 02:28:00 UTC] flaticon-tv-monitor
+[28-Jun-2021 02:28:00 UTC] 49' HD TV
+[28-Jun-2021 02:28:00 UTC] flaticon-air-conditioner
+[28-Jun-2021 02:28:00 UTC] Conditioner
+[28-Jun-2021 02:28:00 UTC] flaticon-coffee
+[28-Jun-2021 02:28:00 UTC] Breakfast
+[28-Jun-2021 02:28:00 UTC] flaticon-coffee-cup
+[28-Jun-2021 02:28:00 UTC] Tea & Coffee

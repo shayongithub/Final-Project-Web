@@ -1,0 +1,37 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("flaticon.ttf?bf790cb94d1426d764c62dc45ad401ef") format("truetype"),
+url("flaticon.woff?bf790cb94d1426d764c62dc45ad401ef") format("woff"),
+url("flaticon.woff2?bf790cb94d1426d764c62dc45ad401ef") format("woff2"),
+url("flaticon.eot?bf790cb94d1426d764c62dc45ad401ef#iefix") format("embedded-opentype"),
+url("flaticon.svg?bf790cb94d1426d764c62dc45ad401ef#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "usb-cable": "\f101",
+    "fruits": "\f102",
+    "shower": "\f103",
+);
+
+.flaticon-usb-cable:before {
+    content: map-get($flaticon-map, "usb-cable");
+}
+.flaticon-fruits:before {
+    content: map-get($flaticon-map, "fruits");
+}
+.flaticon-shower:before {
+    content: map-get($flaticon-map, "shower");
+}

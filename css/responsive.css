@@ -1,0 +1,79 @@
+/* @media only screen and (min-width: 800px) and (max-width: 1500px) {
+    .v2 .container {
+        width: 910px;
+    }
+    .p__md__120 {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .pt__md__90 {
+        padding-bottom: 90px
+    }
+    .pt__md__90 {
+        padding-bottom: 70px
+    }
+    .fig__caption {
+        -webkit-transform: translate(50%, -50%);
+        transform: translate(50%, -50%);
+    }
+} */
+
+
+/* ==============================================
+==================Medium Display==============*/
+
+    /* @media only screen and (max-width: 768px) {
+        .section .homestay_service .districts1 .container .slider1{
+            width: 728px;
+        }
+        
+        
+    } */
+
+/* ==============================================
+=============Medium Mobile Screen==============*/
+
+/* @media only screen and (min-width: 0px) and (max-width: 768px) {
+    .section .homestay_service .districts1 .container .slider1{
+        width: 450px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .top__header.bg__dark {
+        display: none;
+    }
+    header {
+        top: 10px;
+    }
+    .off_can_lg {
+        margin-top: 0;
+    }
+}
+@media (max-width: 480px) {
+    .booking  {
+        max-width: 100%;
+    }
+    form #form-group{
+        margin-bottom: 15px;
+        width: 100%;
+    }
+} */
+/* .booking-form{
+    display: flex;
+}
+.form-group{
+    display: flex;
+  flex-direction: column;
+  margin-right: 4%;
+}
+
+@media screen and (max-width: 600px){
+    .booking-form{
+      flex-direction: column;
+    }
+    
+    .form-control{
+      width: 100%;
+    }
+  } */
