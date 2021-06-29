@@ -1,0 +1,62 @@
+[27-Jun-2021 13:41:54 UTC] UPDATE `homestay_room`
+                                SET `available` =  1
+                                WHERE `room_id` = '20003'
+[27-Jun-2021 13:42:13 UTC] UPDATE `homestay_room`
+                                SET `available` =  0
+                                WHERE `room_id` = '20001'
+[27-Jun-2021 13:51:20 UTC] UPDATE `homestay_room`
+                                SET `available` =  1
+                                WHERE `room_id` = '20001'
+[27-Jun-2021 13:51:43 UTC] UPDATE `homestay_room`
+                                SET `available` =  0
+                                WHERE `room_id` = '20001'
+[27-Jun-2021 14:02:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[27-Jun-2021 14:27:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[27-Jun-2021 14:57:58 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 18
+[27-Jun-2021 15:03:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[27-Jun-2021 15:10:40 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 19
+[27-Jun-2021 15:12:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 19
+[27-Jun-2021 15:15:22 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 19
+[27-Jun-2021 15:15:30 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 19
+[27-Jun-2021 15:16:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 19
+[27-Jun-2021 15:22:22 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 19
+[27-Jun-2021 15:24:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 19
+[27-Jun-2021 15:27:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 18
+[27-Jun-2021 15:34:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 17
+[27-Jun-2021 15:36:06 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/save_form.php on line 17
+[27-Jun-2021 15:48:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[27-Jun-2021 19:06:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[28-Jun-2021 02:18:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[28-Jun-2021 02:21:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[28-Jun-2021 02:25:45 UTC] PHP Warning:  move_uploaded_file(../Nang/6 techie.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 02:25:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1Mka1w' to '../Nang/6 techie.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 02:25:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 13
+[28-Jun-2021 02:26:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[28-Jun-2021 02:27:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[28-Jun-2021 02:27:55 UTC] PHP Warning:  move_uploaded_file(../Nang/Screenshot from 2021-01-26 10-31-20.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 02:27:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKJfKi8' to '../Nang/Screenshot from 2021-01-26 10-31-20.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 02:27:55 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 13
+[28-Jun-2021 02:30:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[28-Jun-2021 05:36:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
+[28-Jun-2021 05:36:48 UTC] PHP Warning:  move_uploaded_file(../Nang/vc.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:36:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeg5E7N' to '../Nang/vc.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:36:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 13
+[28-Jun-2021 05:40:39 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 8
+[28-Jun-2021 05:40:39 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 10
+[28-Jun-2021 05:40:39 UTC] PHP Warning:  move_uploaded_file(../Nang/vc.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:40:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDWo8Fv' to '../Nang/vc.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:40:52 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 8
+[28-Jun-2021 05:40:52 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 10
+[28-Jun-2021 05:40:52 UTC] PHP Warning:  move_uploaded_file(../Nang/vc.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:40:52 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTSu2Og' to '../Nang/vc.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:44:32 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 8
+[28-Jun-2021 05:44:32 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 10
+[28-Jun-2021 05:45:47 UTC] PHP Warning:  move_uploaded_file(../Homestay_Images/vc.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:45:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiFKRtH' to '../Homestay_Images/vc.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:46:24 UTC] PHP Warning:  move_uploaded_file(../Homestay_Images/vc.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:46:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpds9F1z' to '../Homestay_Images/vc.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:48:39 UTC] PHP Warning:  move_uploaded_file(../Homestay_Images/vc.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:48:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoVU0zI' to '../Homestay_Images/vc.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 12
+[28-Jun-2021 05:51:54 UTC] PHP Warning:  move_uploaded_file(../Homestay_Images/green-1217966_640.png): failed to open stream: No such file or directory in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 11
+[28-Jun-2021 05:51:54 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHnNdwT' to '../Homestay_Images/green-1217966_640.png' in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/add_query_room.php on line 11
+[29-Jun-2021 01:41:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /srv/disk22/3849092/www/learn0907.myartsonline.com/homestay/admin/login.php on line 10
